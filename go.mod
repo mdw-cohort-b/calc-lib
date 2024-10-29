@@ -1,3 +1,3 @@
-module github.com/mdw-smarty-cohort-b-2024-10/calc-lib
+module github.com/mdw-cohort-b/calc-lib
 
 go 1.23.0
